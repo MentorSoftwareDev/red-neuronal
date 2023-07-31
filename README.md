@@ -13,9 +13,8 @@ En este ejemplo, vamos a crear una red neuronal simple para resolver un problema
 En este archivo README, proporcionaré instrucciones para instalar y ejecutar el proyecto:
 
 ## Requisitos previos
-Asegúrate de tener instalados los siguientes requisitos previos en tu sistema:
 
-Python: Asegúrate de tener Node.js instalado en tu máquina.
+Asegúrate de tener instalado Python :snake:
 
 ## Pasos para instalar y ejecutar el proyecto
 
@@ -23,7 +22,7 @@ Python: Asegúrate de tener Node.js instalado en tu máquina.
 
 `git clone https://github.com/MentorSoftwareDev/red-neuronal`
 
-`cd crud-nodejs-mysql`
+`cd red-neuronal`
 
 2. Asegúrate de tener instaladas las bibliotecas necesarias antes de comenzar. Puedes instalarlas con el siguiente comando:
 
